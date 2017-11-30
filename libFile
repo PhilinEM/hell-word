@@ -1,2 +1,4 @@
 int i=1;
 int j=3;
+int k=5;
+int n=100;
