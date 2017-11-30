@@ -1,3 +1,4 @@
 # hell-word
-first step
+first step ok
 Привет, пиплы!
+999
