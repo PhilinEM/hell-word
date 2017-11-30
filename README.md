@@ -1,4 +1,6 @@
 # hell-word
+first step ok
 
-Привет, пиплы!
-ujguykuyjjkk
+
+Привет, пиплы!чвеар
+
